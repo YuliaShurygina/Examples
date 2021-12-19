@@ -1,0 +1,15 @@
+D:\Юля\geek brains\Знакомство с С#\лекция 1\Examples\example006_Base\obj\Debug\net6.0\example006_Base.csproj.AssemblyReference.cache
+D:\Юля\geek brains\Знакомство с С#\лекция 1\Examples\example006_Base\obj\Debug\net6.0\example006_Base.GeneratedMSBuildEditorConfig.editorconfig
+D:\Юля\geek brains\Знакомство с С#\лекция 1\Examples\example006_Base\obj\Debug\net6.0\example006_Base.AssemblyInfoInputs.cache
+D:\Юля\geek brains\Знакомство с С#\лекция 1\Examples\example006_Base\obj\Debug\net6.0\example006_Base.AssemblyInfo.cs
+D:\Юля\geek brains\Знакомство с С#\лекция 1\Examples\example006_Base\obj\Debug\net6.0\example006_Base.csproj.CoreCompileInputs.cache
+D:\Юля\geek brains\Знакомство с С#\лекция 1\Examples\example006_Base\bin\Debug\net6.0\example006_Base.exe
+D:\Юля\geek brains\Знакомство с С#\лекция 1\Examples\example006_Base\bin\Debug\net6.0\example006_Base.deps.json
+D:\Юля\geek brains\Знакомство с С#\лекция 1\Examples\example006_Base\bin\Debug\net6.0\example006_Base.runtimeconfig.json
+D:\Юля\geek brains\Знакомство с С#\лекция 1\Examples\example006_Base\bin\Debug\net6.0\example006_Base.dll
+D:\Юля\geek brains\Знакомство с С#\лекция 1\Examples\example006_Base\bin\Debug\net6.0\ref\example006_Base.dll
+D:\Юля\geek brains\Знакомство с С#\лекция 1\Examples\example006_Base\bin\Debug\net6.0\example006_Base.pdb
+D:\Юля\geek brains\Знакомство с С#\лекция 1\Examples\example006_Base\obj\Debug\net6.0\example006_Base.dll
+D:\Юля\geek brains\Знакомство с С#\лекция 1\Examples\example006_Base\obj\Debug\net6.0\ref\example006_Base.dll
+D:\Юля\geek brains\Знакомство с С#\лекция 1\Examples\example006_Base\obj\Debug\net6.0\example006_Base.pdb
+D:\Юля\geek brains\Знакомство с С#\лекция 1\Examples\example006_Base\obj\Debug\net6.0\example006_Base.genruntimeconfig.cache
