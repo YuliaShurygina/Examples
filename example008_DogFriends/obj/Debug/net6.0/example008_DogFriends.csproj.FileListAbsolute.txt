@@ -1,0 +1,5 @@
+D:\Юля\geek brains\Знакомство с С#\лекция 1\Examples\example008_DogFriends\obj\Debug\net6.0\example008_DogFriends.csproj.AssemblyReference.cache
+D:\Юля\geek brains\Знакомство с С#\лекция 1\Examples\example008_DogFriends\obj\Debug\net6.0\example008_DogFriends.GeneratedMSBuildEditorConfig.editorconfig
+D:\Юля\geek brains\Знакомство с С#\лекция 1\Examples\example008_DogFriends\obj\Debug\net6.0\example008_DogFriends.AssemblyInfoInputs.cache
+D:\Юля\geek brains\Знакомство с С#\лекция 1\Examples\example008_DogFriends\obj\Debug\net6.0\example008_DogFriends.AssemblyInfo.cs
+D:\Юля\geek brains\Знакомство с С#\лекция 1\Examples\example008_DogFriends\obj\Debug\net6.0\example008_DogFriends.csproj.CoreCompileInputs.cache
