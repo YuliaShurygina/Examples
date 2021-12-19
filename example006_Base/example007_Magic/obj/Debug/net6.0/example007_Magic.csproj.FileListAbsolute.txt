@@ -1,0 +1,15 @@
+D:\Юля\geek brains\Знакомство с С#\лекция 1\Examples\example006_Base\example007_Magic\bin\Debug\net6.0\example007_Magic.exe
+D:\Юля\geek brains\Знакомство с С#\лекция 1\Examples\example006_Base\example007_Magic\bin\Debug\net6.0\example007_Magic.deps.json
+D:\Юля\geek brains\Знакомство с С#\лекция 1\Examples\example006_Base\example007_Magic\bin\Debug\net6.0\example007_Magic.runtimeconfig.json
+D:\Юля\geek brains\Знакомство с С#\лекция 1\Examples\example006_Base\example007_Magic\bin\Debug\net6.0\example007_Magic.dll
+D:\Юля\geek brains\Знакомство с С#\лекция 1\Examples\example006_Base\example007_Magic\bin\Debug\net6.0\ref\example007_Magic.dll
+D:\Юля\geek brains\Знакомство с С#\лекция 1\Examples\example006_Base\example007_Magic\bin\Debug\net6.0\example007_Magic.pdb
+D:\Юля\geek brains\Знакомство с С#\лекция 1\Examples\example006_Base\example007_Magic\obj\Debug\net6.0\example007_Magic.csproj.AssemblyReference.cache
+D:\Юля\geek brains\Знакомство с С#\лекция 1\Examples\example006_Base\example007_Magic\obj\Debug\net6.0\example007_Magic.GeneratedMSBuildEditorConfig.editorconfig
+D:\Юля\geek brains\Знакомство с С#\лекция 1\Examples\example006_Base\example007_Magic\obj\Debug\net6.0\example007_Magic.AssemblyInfoInputs.cache
+D:\Юля\geek brains\Знакомство с С#\лекция 1\Examples\example006_Base\example007_Magic\obj\Debug\net6.0\example007_Magic.AssemblyInfo.cs
+D:\Юля\geek brains\Знакомство с С#\лекция 1\Examples\example006_Base\example007_Magic\obj\Debug\net6.0\example007_Magic.csproj.CoreCompileInputs.cache
+D:\Юля\geek brains\Знакомство с С#\лекция 1\Examples\example006_Base\example007_Magic\obj\Debug\net6.0\example007_Magic.dll
+D:\Юля\geek brains\Знакомство с С#\лекция 1\Examples\example006_Base\example007_Magic\obj\Debug\net6.0\ref\example007_Magic.dll
+D:\Юля\geek brains\Знакомство с С#\лекция 1\Examples\example006_Base\example007_Magic\obj\Debug\net6.0\example007_Magic.pdb
+D:\Юля\geek brains\Знакомство с С#\лекция 1\Examples\example006_Base\example007_Magic\obj\Debug\net6.0\example007_Magic.genruntimeconfig.cache
