@@ -1,0 +1,15 @@
+D:\Юля\geek brains\Знакомство с С#\лекция 1\Examples\example005_ifElse\obj\Debug\net6.0\example005_ifElse.csproj.AssemblyReference.cache
+D:\Юля\geek brains\Знакомство с С#\лекция 1\Examples\example005_ifElse\obj\Debug\net6.0\example005_ifElse.GeneratedMSBuildEditorConfig.editorconfig
+D:\Юля\geek brains\Знакомство с С#\лекция 1\Examples\example005_ifElse\obj\Debug\net6.0\example005_ifElse.AssemblyInfoInputs.cache
+D:\Юля\geek brains\Знакомство с С#\лекция 1\Examples\example005_ifElse\obj\Debug\net6.0\example005_ifElse.AssemblyInfo.cs
+D:\Юля\geek brains\Знакомство с С#\лекция 1\Examples\example005_ifElse\obj\Debug\net6.0\example005_ifElse.csproj.CoreCompileInputs.cache
+D:\Юля\geek brains\Знакомство с С#\лекция 1\Examples\example005_ifElse\bin\Debug\net6.0\example005_ifElse.exe
+D:\Юля\geek brains\Знакомство с С#\лекция 1\Examples\example005_ifElse\bin\Debug\net6.0\example005_ifElse.deps.json
+D:\Юля\geek brains\Знакомство с С#\лекция 1\Examples\example005_ifElse\bin\Debug\net6.0\example005_ifElse.runtimeconfig.json
+D:\Юля\geek brains\Знакомство с С#\лекция 1\Examples\example005_ifElse\bin\Debug\net6.0\example005_ifElse.dll
+D:\Юля\geek brains\Знакомство с С#\лекция 1\Examples\example005_ifElse\bin\Debug\net6.0\ref\example005_ifElse.dll
+D:\Юля\geek brains\Знакомство с С#\лекция 1\Examples\example005_ifElse\bin\Debug\net6.0\example005_ifElse.pdb
+D:\Юля\geek brains\Знакомство с С#\лекция 1\Examples\example005_ifElse\obj\Debug\net6.0\example005_ifElse.dll
+D:\Юля\geek brains\Знакомство с С#\лекция 1\Examples\example005_ifElse\obj\Debug\net6.0\ref\example005_ifElse.dll
+D:\Юля\geek brains\Знакомство с С#\лекция 1\Examples\example005_ifElse\obj\Debug\net6.0\example005_ifElse.pdb
+D:\Юля\geek brains\Знакомство с С#\лекция 1\Examples\example005_ifElse\obj\Debug\net6.0\example005_ifElse.genruntimeconfig.cache
