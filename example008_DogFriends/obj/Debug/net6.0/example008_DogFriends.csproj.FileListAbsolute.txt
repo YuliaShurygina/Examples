@@ -3,3 +3,13 @@ D:\Юля\geek brains\Знакомство с С#\лекция 1\Examples\exampl
 D:\Юля\geek brains\Знакомство с С#\лекция 1\Examples\example008_DogFriends\obj\Debug\net6.0\example008_DogFriends.AssemblyInfoInputs.cache
 D:\Юля\geek brains\Знакомство с С#\лекция 1\Examples\example008_DogFriends\obj\Debug\net6.0\example008_DogFriends.AssemblyInfo.cs
 D:\Юля\geek brains\Знакомство с С#\лекция 1\Examples\example008_DogFriends\obj\Debug\net6.0\example008_DogFriends.csproj.CoreCompileInputs.cache
+D:\Юля\geek brains\Знакомство с С#\лекция 1\Examples\example008_DogFriends\bin\Debug\net6.0\example008_DogFriends.exe
+D:\Юля\geek brains\Знакомство с С#\лекция 1\Examples\example008_DogFriends\bin\Debug\net6.0\example008_DogFriends.deps.json
+D:\Юля\geek brains\Знакомство с С#\лекция 1\Examples\example008_DogFriends\bin\Debug\net6.0\example008_DogFriends.runtimeconfig.json
+D:\Юля\geek brains\Знакомство с С#\лекция 1\Examples\example008_DogFriends\bin\Debug\net6.0\example008_DogFriends.dll
+D:\Юля\geek brains\Знакомство с С#\лекция 1\Examples\example008_DogFriends\bin\Debug\net6.0\ref\example008_DogFriends.dll
+D:\Юля\geek brains\Знакомство с С#\лекция 1\Examples\example008_DogFriends\bin\Debug\net6.0\example008_DogFriends.pdb
+D:\Юля\geek brains\Знакомство с С#\лекция 1\Examples\example008_DogFriends\obj\Debug\net6.0\example008_DogFriends.dll
+D:\Юля\geek brains\Знакомство с С#\лекция 1\Examples\example008_DogFriends\obj\Debug\net6.0\ref\example008_DogFriends.dll
+D:\Юля\geek brains\Знакомство с С#\лекция 1\Examples\example008_DogFriends\obj\Debug\net6.0\example008_DogFriends.pdb
+D:\Юля\geek brains\Знакомство с С#\лекция 1\Examples\example008_DogFriends\obj\Debug\net6.0\example008_DogFriends.genruntimeconfig.cache

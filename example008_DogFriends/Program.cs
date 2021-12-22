@@ -1,24 +1,26 @@
 ﻿
-//Console.WriteLine("Введите расстояние ");
-int distance = 10000;
-//Console.WriteLine("Введите скорость первого друга ");
-int firstFriendSpeed = 1;
-//Console.WriteLine("Введите скорость второго друга ");
-int secondFriendSpeed = 2;
-//Console.WriteLine("Введите скорость собаки ");
-int dogSpeed = 5;
+Console.Write("Введите расстояние:  ");
+int distance = int.Parse(Console.ReadLine()??"0");
+
+Console.WriteLine("Введите скорость первого друга ");
+int firstFriendSpeed = int.Parse(Console.ReadLine()??"0");
+Console.WriteLine("Введите скорость второго друга ");
+int secondFriendSpeed = int.Parse(Console.ReadLine()??"0");
+Console.WriteLine("Введите скорость собаки ");
+int dogSpeed = int.Parse(Console.ReadLine()??"0");
 int friend = 2;
 int count = 0;
-while (distance>10)
+int time = 0;
+while (distance > 10)
 {
     if(friend == 1)
     {
-        double time = distance / (dogSpeed+firstFriendSpeed);
+        time = distance / (dogSpeed+firstFriendSpeed);
         friend = 2;
     }
     else
     {
-        double time = distance / (dogSpeed+secondFriendSpeed);
+        time = distance / (dogSpeed+secondFriendSpeed);
         friend = 1;
     }
     distance = distance - time*(firstFriendSpeed+secondFriendSpeed);
